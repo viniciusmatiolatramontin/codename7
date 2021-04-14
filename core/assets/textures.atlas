@@ -1,0 +1,76 @@
+
+textures.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemyBlack4
+  rotate: false
+  xy: 399, 97
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+enemyRed3
+  rotate: false
+  xy: 256, 53
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+laserGreen05
+  rotate: false
+  xy: 498, 219
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+laserRed03
+  rotate: false
+  xy: 481, 144
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+meteorBrown_med1
+  rotate: false
+  xy: 256, 10
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+pill_red
+  rotate: false
+  xy: 490, 160
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+playerShip1_red
+  rotate: false
+  xy: 399, 181
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 256, 137
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+shield_gold
+  rotate: false
+  xy: 359, 107
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
