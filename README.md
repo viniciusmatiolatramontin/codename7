@@ -29,6 +29,9 @@ ________________________________________________________________________________
 
 # :boom: How to play in your PC :boom:
 1 -> Access https://vinymt.itch.io/codename-7
+
 2 -> Go to the downloads section and click the download button
+
 3 -> Download Java 14 in your pc
+
 4 -> Excecute the jar file and have fun :3
