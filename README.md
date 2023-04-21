@@ -16,7 +16,7 @@ Gunners: They are the only enemies that can shoot projectiles at you, they also 
 
 Meteorites: they are the easiest enemies to kill in the game, one hit and you basically destroy them, they also give you only 5 points when killed
 
-Kamikazes: those are the hardest enemies in the game, you can't kill them, you can only try to avoid them, if a kamikaze ship hits you, you are essencially dead,
+Kamikazes: those are the hardest enemies in the game, you can't kill them, you can only try to avoid them, if a kamikaze spaceship hits you, you are essentially dead,
 they also make a noisy sound when they spawn.
 _________________________________________________________________________________________________________________________________________________________________
 
